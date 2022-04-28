@@ -2,5 +2,11 @@ Esta es la historia de alguien comun
 
 Se la pasa aprendiendo en linea
 
+<<<<<<< HEAD
 mañana nos enfocaremos en su vida laboral.
 hola xd
+=======
+Usuario 2 para el repositorio.
+
+mañana nos enfocaremos en su vida laboral.
+>>>>>>> 55a832791cc417021821f83dc1a3725deb78f7c5
